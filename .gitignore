@@ -1,0 +1,5 @@
+node_modules
+jonas - complete javascript course
+dist
+.parcel-cache
+.DS_Store
